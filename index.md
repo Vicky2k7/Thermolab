@@ -16,4 +16,3 @@ site:
 :width: 80%
 :align: center
 ```
-
